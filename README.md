@@ -6,3 +6,5 @@ To Do:
   - https://linkurio.us/blog/linkedin-inmaps-discontinued-visualize-network-now/
 - Use this example to wrap the map the with functions and to make it interative
   - https://www.geeksforgeeks.org/implementing-a-contacts-directory-in-python/
+- From @mhiebert:
+  - libraries recommended: networkx, pyvis
